@@ -6,7 +6,7 @@ Aplicação web de gestão de caixa para microempreendedores jovens, com registr
 ![Stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
 ![Testes](https://img.shields.io/badge/testes-28%20autotestes-brightgreen)
 
-**Demonstração:** [URL]
+**Demonstração:** [sergiomeyer23.github.io/Mangos](https://sergiomeyer23.github.io/Mangos/)
 
 ![Tela Meu Caixa](prints/desktop-3-caixa.png)
 
@@ -85,7 +85,7 @@ Na ausência de chave de API, ou em caso de falha da requisição, a extração 
 Não há dependências a instalar.
 
 ```bash
-git clone [URL DO REPOSITÓRIO]
+git clone https://github.com/sergiomeyer23/Mangos.git
 cd mangos
 ```
 
